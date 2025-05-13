@@ -1,0 +1,9 @@
+[user]
+	name = Naiara Rodríguez Solano
+	email = naiarars.nr@gmail.com
+[color]
+	ui = auto
+[core]
+	editor = code --wait
+[alias]
+	lg = log --oneline --graph --all --decorate
